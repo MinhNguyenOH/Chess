@@ -10,12 +10,13 @@ A simple GUI for Chess with AI, optimized with alpha beta pruning and threading 
 
 ### Dependencies
 
-* Python
+* This is a Python project. You can install Python by visiting [Python install page](https://www.python.org/downloads/). If you already have Python set up, simply clone this project. Then run the basic steps to run the project like you would any other Python project.
+
+
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Download from 
 
 ### Executing program
 
