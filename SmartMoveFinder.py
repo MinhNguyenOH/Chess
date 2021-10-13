@@ -175,7 +175,6 @@ def findMoveNegaMaxAlphaBeta(gs, validMoves, depth, alpha, beta, turnMultiplier)
     counter += 1
     if depth == 0:
         return turnMultiplier*scoreBoard(gs)
-    # TODO: move ordering
 
     maxScore = -CHECKMATE
     for move in validMoves:
