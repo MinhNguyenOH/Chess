@@ -1,10 +1,11 @@
-# Project Title
+# CHESS
 
 Chess game with AI
 
 ## Description
 
-A simple GUI for Chess with AI, optimized with alpha beta pruning and threading to reduce run time.
+* A simple GUI for Chess with AI, optimized with alpha beta pruning and threading to reduce run time.
+* The AI is not very smart but could be improved by changing the score calculation.
 
 ## Getting Started
 
@@ -37,9 +38,6 @@ command to run if program contains helper info
 ## Authors
 
 Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
