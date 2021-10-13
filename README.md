@@ -1,10 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+Chess game with AI
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A simple GUI for Chess with AI, optimized with alpha beta pruning and threading to reduce run time.
 
 ## Getting Started
 
