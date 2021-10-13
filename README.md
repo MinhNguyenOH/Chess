@@ -22,7 +22,7 @@ Chess game with AI
 ### Executing program
 
 * Run ChessMain.py
-* You can change playerOne(white), playerTwo(black) variable to True to play, player with False will be replaced by AI
+* In ChessMain.py you can change playerOne(white), playerTwo(black) variable to True to play, player with False will be replaced by AI
 
 ```
 code blocks for commands
