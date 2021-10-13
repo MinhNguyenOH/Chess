@@ -21,7 +21,7 @@ A simple GUI for Chess with AI, optimized with alpha beta pruning and threading 
 ### Executing program
 
 * Run ChessMain.py
-* You can change playerOne(white), playerTwo(black) variable to True to play, player with False will be replace by AI
+* You can change playerOne(white), playerTwo(black) variable to True to play, player with False will be replaced by AI
 
 ```
 code blocks for commands
