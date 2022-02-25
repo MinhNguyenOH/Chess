@@ -11,7 +11,7 @@ Chess game with AI
 
 ### Dependencies
 
-* This is a Python project. You can install Python by visiting [Python install page](https://www.python.org/downloads/). If you already have Python set up, simply clone this project. Then run the basic steps to run the project like you would any other Python project.
+* This is a Python project. You can install Python by visiting [Python install page](https://www.python.org/downloads/). If you already have Python set up, simply clone this project. Then run the basic steps to run the project like you would with any other Python project.
 
 
 
